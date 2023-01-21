@@ -1,7 +1,7 @@
 ### Hi there 👋
 A Brazilian Developer in Germany :)
 
- I'm learning at the moment JS
+ I'm learning at the moment: PHP
 <h3 align="left">Languages and Tools:</h3>
  <img src="Badge_Alura_B2B_Sharer (1).png" alt="Bbadge-Altura" width="90" height="90"/>
  

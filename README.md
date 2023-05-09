@@ -1,11 +1,11 @@
 ### Hi there 👋
 A Brazilian Developer in Germany :)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/iconS, html,css,figma,vscode,js" />
+    <img src="https://skillicons.dev/icons, html,css,figma,vscode,js" />
   </a>
 </p>
 

@@ -1,6 +1,8 @@
 ### Hi there 👋
 A Brazilian Developer in Germany :)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons"html","css","figma","vscode","js"" />

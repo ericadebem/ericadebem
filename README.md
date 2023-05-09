@@ -5,7 +5,7 @@ A Brazilian Developer in Germany :)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons"html","css","figma","vscode","js"" />
+    <img src="https://skillicons.dev/iconS, html,css,figma,vscode,js" />
   </a>
 </p>
 

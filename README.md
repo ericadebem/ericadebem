@@ -3,7 +3,7 @@
 I am a Brazilian developer in Germany :)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,js,html,css,react,figma,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,js,typescript,html,css,react,figma,bootstrap,vscode" />
   </a>
 </p>
 <p align="left"> - Earned Badges:</p>
